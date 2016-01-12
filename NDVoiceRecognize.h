@@ -7,7 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
-
+/**
+ *  注释
+ */
 @interface NDVoiceRecognize : NSObject
 
 @end

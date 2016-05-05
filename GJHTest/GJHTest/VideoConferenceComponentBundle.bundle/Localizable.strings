@@ -1,4 +1,4 @@
-﻿
+
 /* 创建会议界面 */
 "create_conference_input_value" = "填写会议名 (3-20字)";
 
@@ -639,3 +639,6 @@
 
 /** 已拒绝呼叫请求 */
 "voip_call_request_refuse" = "已拒绝呼叫请求";
+
+/** 898 */
+"voip_call_request_re88" = "已拒绝呼叫";

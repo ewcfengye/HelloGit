@@ -641,4 +641,7 @@
 "voip_call_request_refuse" = "已拒绝呼叫请求";
 
 /** 898 */
-"voip_call_request_re88" = "已拒绝呼叫";
+"voip_call_request_re88" = "已拒绝呼";
+
+/** 990 */
+"voip_call_request_re88" = "绝呼叫";

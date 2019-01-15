@@ -1,0 +1,655 @@
+
+/* 创建会议界面 */
+"create_conference_input_value" = "填写会议名 (3-20字)";
+
+/* 创建会议界面 */
+"create_conference_nav_back" = "default_skin.bundle/general_top_icon_back_normal";
+
+/* 创建会议界面 */
+"create_conference_nav_right" = "完成";
+
+/* 创建会议界面 */
+"create_conference_nav_title" = "创建会议";
+
+/* 创建会议界面 */
+"create_conference_join_people" = "参与人员 (最多可邀请 3 人,邀请后立即发出会议邀请";
+
+/* 我的会议界面 */
+"my_conf_input_value" = "输入会议号";
+
+/* 我的会议界面 */
+"my_conference_nav_right" = "创建会议";
+
+/* 我的会议界面 */
+"my_conference_nav_title" = "我的会议";
+
+/* 我的会议界面 */
+"my_conference_cell_markcard_holder_image" = "VideoConferenceComponentBundle.bundle/general_picture_place_normal";
+
+/* 我的会议界面 */
+"my_conference_meet_record" = "会议记录";
+
+/* 我的会议界面 */
+"confcell_join_button_title" = "加入";
+
+/* 我的会议界面 */
+"my_conf_join_conference" = "加入";
+
+/* 我的会议界面 */
+"my_conf_conf_creator_name" = "创建者";
+
+/* 我的会议界面 没有会议记录提示*/
+"my_conf_empty_image" = "VideoConferenceComponentBundle.bundle/general_not_icon_meeting.png";
+
+/* 我的会议界面 没有会议记录提示*/
+"my_conf_empty_hint_I" = "暂无会议记录";
+
+/* 我的会议界面 没有会议记录提示*/
+"my_conf_empty_hint_II" = "快去创建会议或加入小伙伴的会议吧!";
+
+/* im pop 列表 */
+"my_conf_im_popover_menu_name" = "我的会议";
+
+/* im pop 列表 */
+"my_conf_im_popover_menu_iconid" = "VideoConferenceComponentBundle.bundle/chat_list_icon_synergy";
+
+/* 加入会议提醒 － */
+"join_conference_alert_part_I" = "当前已在";
+
+/* 加入会议提醒 － */
+"join_conference_alert_part_II" = "会议中,";
+
+
+/* 加入会议提醒 －*/
+"join_conference_alert_part_III" = "是否进入";
+
+/* 加入会议提醒 － */
+"join_conference_alert_part_IV" = "会议？";
+
+/* 加入会议提醒 －互斥会议 */
+"join_conference_alert_mutex" = "当前已在会议中,无法再次进入会议！";
+
+/* 会议提醒 － 音视频*/
+"av_conf_create_fail" = "创建音视频会议失败";
+
+/* 会议提醒 － 音视频*/
+"av_conf_join_fail" = "加入音视频会议失败";
+
+/* 会议提醒 － 会议*/
+"conf_join_fail" = "加入会议失败";
+
+
+/* 会议提醒 － 成员变化*/
+"alert_for_sb_joined" = "加入了会议";
+
+/* 会议提醒 － 成员变化*/
+"alert_for_sb_leaved" = "退出了会议";
+
+/* 文档提醒 － 音视频会议*/
+"file_pattern_not_support" = "该文档类型不支持";
+
+/* 文档提醒 － 文档冲突*/
+"already_in_file_share" = "已经在文档共享中";
+
+/* 文档提醒 － 文档切换失败*/
+"change_file_to_sync_fail" = "切换文件失败";
+
+/* 文档提醒 － 开始协同失败*/
+"start_file_to_sync_fail" = "开始文档协同失败";
+
+/* 文档提醒 － 文档下载失败*/
+"download_file_to_sync_fail" = "文件下载失败";
+
+
+/* 文档提醒 － 文件未下载完成*/
+"download_file_to_sync_downing" = "文件未下载完成";
+
+/* 文档提醒 － 有人退出来协同*/
+"sb_exit_sync_file" = "退出了文档协同";
+
+/* 文档提醒 － 有人退出来协同*/
+"sync_sanme_file" = "文档已在演示中";
+
+/* 文档列表 － 标题*/
+"VCCContactFileViewController_Title" = "来往文件";
+
+/* 文档列表 － 标题*/
+"GroupChatManageViewController_lb_Title_GroupSharing" = "群共享";
+
+/* 文档列表 － 标题*/
+"temporary_no_data" = "暂无数据";
+
+/* 文档列表 － 标题*/
+"GroupShareViewController_update_data" = "加载中";
+
+/* 文档列表 － 标题*/
+"GroupShareViewController_deleting" = "删除中";
+
+/* 文档列表 － 标题*/
+"GroupShareViewController_delete_limit" = "您无权限删除";
+
+/**文档列表 - 权限提醒*/
+"group_list_no_authority_for_p2p_chat" = "无对方文件的访问权限";
+
+/**文档列表 - 权限提醒*/
+"group_list_no_authority_for_group" = "无群共享的访问权限";
+
+/**文档列表 - 文件状态*/
+"file_state_uploading" = "上传中...";
+
+/**文档列表 - 文件状态*/
+"file_state_upload_fail" = "上传失败，请重试!";
+
+/**文档列表 - 文件状态*/
+"file_state_downloading" = "下载中";
+
+/**文档列表 - 文件状态*/
+"file_state_download_fail" = "下载失败";
+
+/**文档列表 - 文件上传者*/
+"file_uploder" = "上传者";
+
+/**文档列表 - 文件上传者*/
+"file_list" = "文件列表";
+
+/**文档列表 - 文件上传者*/
+"file_uploading" = "上传中";
+
+/**文档列表 - 文件上传者*/
+"pause_uploading" = "暂停上传";
+
+/**文档列表 - 文件上传者*/
+"wait_uploading" = "等待上传";
+
+/**文档列表 - 文件上传者*/
+"upload_succ" = "上传成功";
+
+/**文档列表 - 文件上传者*/
+"syn_file_list" = "协同文件";
+
+/**文档列表 - 添加文件*/
+"add_file" = "添加文件";
+
+/**文档列表 - 添加图片*/
+"add_picture" = "添加图片";
+
+/**文档列表 - 添加文件*/
+"confirm" = "确认";
+
+/**文档列表 - 取消*/
+"cancel" = "取消";
+
+/**文档协同 退出文档协同提示*/
+"confirm_exit_file_sync" = "是否退出文档协同？";
+
+/**退出会议提示*/
+"confirm_exit_conference" = "是否退出会议？";
+
+
+/**退出会议*/
+"exit_conference" = "退出会议";
+
+/**暂时返回*/
+"temporary_back" = "暂时返回";
+
+/**文档列表*/
+"file_list_title" = "文档列表";
+
+/**确定按钮title*/
+"sure" = "确定";
+
+/**好按钮title*/
+"ok" = "好";
+
+/**文档列表 - 全选*/
+"choose_all" = "全选";
+
+/**文档列表 - 全选*/
+"up_load" = "上传";
+
+/**文档列表 - 非演示方发起*/
+"now_is_in_file_sharing" = "正在文档演示中";
+
+/**文档列表 - 非演示方发起*/
+"file_is_sharing_exit" = "该文档正在演示中,是否停止演示";
+
+
+/**当前接入wifi*/
+"current_network_is_wifi" = "当前接入wifi";
+
+/**我知道了*/
+"self_sure_text" = "我知道了";
+
+
+/**移动网络提醒*/
+"current_mobile_network_notice" = "当前网切换至4g/3g，建议您立即接入wifi";
+
+
+/**网络异常提醒*/
+"network_exception_notice" = "网络异常，请检查网络连接情况";
+
+
+/**提示是否直接使用流量*/
+"confirm_user_mobile_network" = "当前网络非wifi，是否立即使用";
+
+
+/**提示用户选择投票意见*/
+"please_choose_vote_option" = "请选择您的意见";
+
+
+/**投票*/
+"vote" = "投票";
+
+/**互动*/
+"interaction" = "互动";
+
+/**音量过低提示*/
+"volume_to_low" = "手机静音或音量过低，建议调大音量!";
+
+/**扬声器*/
+"output_devicetype_speaker" = "扬声器";
+
+/**听筒*/
+"output_devicetype_receiver" = "听筒";
+
+/**耳机*/
+"output_devicetype_headphones" = "耳机";
+
+/**蓝牙*/
+"output_devicetype_bluetooth" = "蓝牙";
+
+
+/**设备切换*/
+"output_devicetype_changeto" = "切换成";
+
+/**四分屏模式*/
+"four_screen_normal_model" = "四分屏模式";
+
+
+/**文档模式*/
+"file_model" = "文档模式";
+
+/**主讲模式*/
+"four_screen_major_model" = "主讲模式";
+
+/**成员列表*/
+"member_list_title" = "成员列表";
+
+/**不在wifi环境*/
+"network_not_wifi_model" = "您不在WIFI环境下";
+
+/**提示以纯音频方式进会议*/
+"notice_join_with_pureaudio" = "是否加入会议？也可使用省流量模式进入，默认关闭所有人的摄像头";
+
+/**直接进入会议*/
+"direct_join_conference" = "直接进入";
+
+/**省流量模式*/
+"pureaudio_model" = "省流量模式";
+
+/** 投票  投票已经结束*/
+"vote_had_finished" = "投票已结束";
+
+/** 投票 无投票权限 */
+"no_permission_vote" = "不允许投票";
+
+/** 投票 投票失败 */
+"vote_fail" = "投票失败";
+
+/** 投票 结束投票失败 */
+"end_vote_fail" = "结束投票失败";
+
+/** 结束投票 */
+"end_vote" = "结束投票";
+
+/** 结束投票成功 */
+"end_vote_success" = "已成功结束投票";
+
+/** 对方关闭了摄像头的提示文字 */
+"opposite_close_video_info" = "关闭了摄像头";
+
+/** 自己关闭了摄像头的提示文字 */
+"self_close_video_info" = "点击右上角打开";
+
+/** 会议邀请状态 呼叫中*/
+"conference_invite_state_doing" = "呼叫中...";
+
+/** 会议邀请状态 拒绝邀请*/
+"conference_invite_state_refuse" = "拒绝邀请";
+
+/** 会议邀请状态 接受邀请*/
+"conference_invite_state_accept" = "接受邀请";
+
+/** 会议邀请状态 呼叫失败*/
+"conference_invite_state_fail" = "呼叫失败";
+
+/** 会议邀请状态 挂断*/
+"conference_invite_state_hangup" = "挂断";
+
+/** 会议邀请状态 接听*/
+"conference_invite_state_answer" = "接听";
+
+/** 会议邀请 重新呼叫*/
+"conference_invite_recall" = "重新呼叫";
+
+/** 会议邀请 全部重新呼叫 */
+"conference_invite_recall_all" = "全部重新呼叫";
+
+/** 点对点 重新呼叫*/
+"voip_recall" = "重新呼叫";
+
+/** 点对点 已挂断 */
+"voip_call_hanguped" = "已挂断";
+
+/** 对方已拒绝 */
+"voip_call_opposite_refuse" = "对方已拒绝";
+
+/** 对方忙 */
+"voip_call_opposite_busy" = "对方忙";
+
+/** 正在连接 */
+"voip_call_connecting" = "正在连接";
+
+/** 呼叫失败 */
+"voip_call_fail" = "呼叫失败";
+
+/** 已被PC端接受 */
+"voip_call_accept_by_pc" = "已被PC端接受";
+
+/** 已被PC端结束 */
+"voip_call_end_by_pc" = "已被PC端结束";
+
+/** 已被Android端接受 */
+"voip_call_accept_by_android" = "已被Android端接受";
+
+/** 已被Android端结束 */
+"voip_call_end_by_android" = "已被Android端结束";
+
+/** 已被其它端接受 */
+"voip_call_accept_by_others" = "已被其它端接受";
+
+/** 已被其它端结束 */
+"voip_call_end_by_others" = "已被其它端结束";
+
+/** 您被挤下线 */
+"login_by_others" = "您被挤下线";
+
+/** 邀请成员*/
+"invite_member" = "邀请成员";
+
+/** 成员达到数量限制*/
+"member_count_reach_limit" = "会议人数已经到达上限！";
+
+/** 与会者*/
+"conference_member" = "与会者";
+
+/** 会议邀请*/
+"conference_invite" = "会议邀请";
+
+/** 来自%@的会议邀请*/
+"conference_invite_from" = "来自%@的会议邀请";
+
+/** 接受会议邀请的 box 消息*/
+"conference_joined_message_format" = "%@已接受【%@】会议邀请。";
+
+/** 会议邀请的加入失败 box 消息*/
+"conference_joined_fail_message_format" = "%@加入【%@】会议失败。";
+
+/** 拒绝会议邀请的 box 消息*/
+"conference_refused_joined_message_format" = "%@拒绝【%@】会议邀请。";
+
+/** 再次加入会议提示*/
+"rejoin_conference_info" = "再次进入>>";
+
+/** 会议名称未输入的时候提示文字*/
+"conference_title_placeholder" = "填写会议名 (3-20字)";
+
+/** 会议默认名称的格式化器*/
+"conference_default_title_format" = "%@发起的协同会议";
+
+/**请求失败*/
+"http_request_fail" = "请求失败";
+
+/** 创建会议的成员提示 */
+"create_conference_members_info" = "参与人员 (最多可邀请 %d 人,邀请后立即发出会议邀请)";
+
+/** 创建会议与通话的冲突 */
+"create_conference_without_voip" = "请结束通话后创建会议！";
+
+/** 加入会议与通话的冲突 */
+"join_conference_without_voip" = "请结束通话后加入会议";
+
+/** 发起通话与会议的冲突 */
+"call_with_conference" = "请结束当前会议后呼叫";
+
+/** 创建会议与会议的冲突 */
+"create_conference_without_conference" = "请结束会议后创建会议！";
+
+/** 会议标题的字数限制*/
+"conference_title_length_min_limit" = "会议名字小于3个字符！";
+
+/** 会议标题字符限制 */
+"conference_title_input_letter_limit" = "会议名字不能包含字符<>'\"/=&";
+
+/** 投票列表*/
+"vote_list" = "投票列表";
+
+/** 投票列表是空的*/
+"vote_list_empty" = "投票列表是空的";
+
+/** 还未有人发起投票提示 */
+"no_vote_info" = "还没人发起过投票哦!";
+
+/** 发起投票*/
+"start_vote" = " 发起了投票";
+
+/** 投票赞 */
+"vote_support" = "赞";
+
+/** 投票踩 */
+"vote_oppose" = "踩";
+
+/** 投票提示1 */
+"vote_info_text_1" = "请投出您宝贵的一票";
+
+/** 投票提示2 */
+"vote_info_text_2" = "投票后方可查看投票结果";
+
+/** 稍后再投 */
+"vote_after_a_moment" = "稍后再投";
+
+/** 您选择了  赞 */
+"you_choose_support" = "您选择了  赞";
+
+/** 您选择了  踩 */
+"you_choose_oppose" = "您选择了  踩";
+
+/** 票数格式化 */
+"vote_count_format" = "%@票";
+
+/** 互动撒花提示文字格式化 */
+"strew_flowers_info_format" = "%@撒花啦";
+
+/** 互动撒花按钮文字 */
+"strew_flowers" = "撒花";
+
+/** 互动鼓掌提示文字格式化 */
+"applause_info_format" = "%@卖力鼓掌";
+
+/** 互动鼓掌按钮文字 */
+"applause" = "鼓掌";
+
+/** 互动扔鸡蛋提示文字格式化 */
+"throw_eggs_info_format" = "oh no~ %@丢出了一颗鸡蛋";
+
+/** 互动扔鸡蛋按钮文字 */
+"throw_eggs" = "扔鸡蛋";
+
+/** 互动倒计时提示文字格式化 */
+"count_down_info_format" = "%@发倒计时了";
+
+/** 互动倒计时按钮文字 */
+"count_down" = "倒计时";
+
+/** 互动听不清提示文字格式化 */
+"no_hear_info_format" = "%@喊喇叭了";
+
+/** 互动喊喇叭提示文字格式化 */
+"no_hear" = "听不清";
+
+
+/** 会议邀请本地推送格式化 */
+"conference_invite_local_push_format" = "%@发起了【%@】会议，会议ID：%@";
+
+/** 呼叫已取消 */
+"voip_call_canceled" = "呼叫已取消";
+
+/** 通话时长 */
+"voip_call_duration_format" = "通话时长:%@";
+
+/** 呼叫超时 */
+"voip_call_over_time" = "呼叫未接听";
+
+/** 呼叫已拒绝 */
+"voip_call_refuse" = "呼叫已拒绝";
+
+/** 呼叫已断开 */
+"voip_call_hangup" = "呼叫已断开";
+
+/** 连接已断开 */
+"voip_call_disconnection" = "连接已断开";
+
+/** 连接异常 */
+"voip_call_connect_exception" = "连接异常";
+
+/** 相机 */
+"device_type_camera" = "相机";
+
+/** 麦克风 */
+"device_type_microphone" = "麦克风";
+
+/** 麦克风、相机 */
+"device_type_camera_and_microphone" = "麦克风、相机";
+
+/** 系统权限 */
+"system_permission" = "系统权限";
+
+/** 去设置页面 */
+"goto_setting_page" = "去设置页面";
+
+/** 更改设备权限的设置页面引导 */
+"navigate_to_change_device_permission" = "请在iPhone的“设置-隐私-%@”选项中，允许%@访问您的%@。";
+
+/** 发送 */
+"send" = "发送";
+
+/** 提醒*/
+"notice" = "提醒";
+
+/** 提醒方式 */
+"notice_type" = "提醒方式";
+
+/** 电话 */
+"phone_call" = "电话";
+
+/** 短信 */
+"message" = "短信";
+
+/** 视频呼叫 */
+"voip_call_type_video" = "视频呼叫";
+
+/** 音频呼叫 */
+"voip_call_type_audio" = "音频呼叫";
+
+/** 未选择发送的用户 */
+"do_not_choose_user_to_send" = "未选择发送的用户";
+
+/** 已发送 */
+"already_sended" = "已发送";
+
+/** 选择用户的提示 */
+"notice_choose_user_info" = "选择用户(若99U未预留该用户电话,则无法通知)";
+
+
+/** 对方未响应 */
+"opposite_no_response" = "对方未响应";
+
+/** 其他提醒方式 */
+"other_notice_type" = "其他提醒方式";
+
+/** 没有预留提醒资料 */
+"no_notice_information" = "该用户未在99U预留电话，无法进行电话、短信提醒";
+
+/** 强提醒弹出框title */
+"strong_remind_alert_title_format" = "[%@]视频会议用户%@";
+
+
+/** 通话结束 */
+"voip_end" = "通话结束";
+/** 静音 */
+"mute" = "静音";
+
+/** 取消静音 */
+"cancel_mute" = "取消静音";
+
+/** 挂断 */
+"voip_hangup" = "挂断";
+
+/** 接听 */
+"voip_answer" = "接听";
+
+/** 免提 */
+"handsfree" = "免提";
+
+/** 取消免提 */
+"cancel_handsfree" = "取消免提";
+
+/** 已切换到静音 */
+"had_change_to_mute" = "已切换到静音";
+
+/** 已切换到播放 */
+"had_change_to_notmute" = "已切换到播放";
+
+/** 已切换到耳机 */
+"had_change_to_headphones" = "已切换到耳机";
+
+/** 已切换到扬声器 */
+"had_change_to_speaker" = "已切换到扬声器";
+
+/** 已切换到听筒 */
+"had_change_to_receiver" = "已切换到听筒";
+
+/** 关闭摄像头 */
+"close_camera" = "关闭摄像头";
+
+/** 关闭相机 */
+"close_camera_1" = "关闭相机";
+
+/** 打开摄像头 */
+"open_camera" = "打开摄像头";
+
+/** 打开相机 */
+"open_camera_1" = "打开相机";
+
+/** 切换摄像头 */
+"change_camera" = "切换摄像头";
+
+/** 已取消呼叫 */
+"voip_call_request_cancel" = "已取消呼叫";
+
+/** 已拒绝呼叫请求 */
+"voip_call_request_refuse" = "已拒绝呼叫请求";
+
+/** 898 */
+<<<<<<< Updated upstream
+"voip_call_request_re88" = "已拒绝呼";
+
+/** 990 */
+"voip_call_request_re88" = "绝呼叫";
+=======
+"voip_call_request_re88" = "已拒绝呼叫";
+
+
+/** 334 */
+"voip_call_request_re88" = "叫";
+>>>>>>> Stashed changes
